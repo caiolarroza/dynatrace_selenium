@@ -1,6 +1,7 @@
 ## Pré requisitos
 - Node maior que a V12
 - Ter npm instalado
+- Ter o Chromedriver baixado em sua máquina e com a variável de ambiente configurada(https://chromedriver.chromium.org/downloads)
 
 ## Como rodar este projeto
 
