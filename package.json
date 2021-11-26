@@ -1,0 +1,14 @@
+{
+  "name": "teste_selenium",
+  "version": "1.0.0",
+  "description": "Test for npm projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Lambdatest",
+  "dependencies": {
+    "chromedriver": "^96.0.0",
+    "selenium-webdriver": "^4.1.0"
+  }
+}
